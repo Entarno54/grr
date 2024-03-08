@@ -1,0 +1,4 @@
+aiohttp==3.9.0b0
+requests~=2.31.0
+kandinsky.py
+selfcord.py
